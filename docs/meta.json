@@ -1,0 +1,19 @@
+{
+  "about": {
+    "homepage": "https://www.ladle.dev",
+    "github": "https://github.com/tajo/ladle",
+    "version": 1
+  },
+  "stories": {
+    "editor--editor": {
+      "name": "Editor",
+      "levels": [
+        "Editor"
+      ],
+      "locStart": 6,
+      "locEnd": 6,
+      "filePath": "src/stories/Editor.stories.tsx",
+      "meta": {}
+    }
+  }
+}
